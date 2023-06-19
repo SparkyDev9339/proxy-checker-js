@@ -1,8 +1,8 @@
-# proxy-checker-py
+# proxy-checker-js
 
 # run 
 1. upload your proxeies
-2. __`python3 main.py`__
+2. __`node main.js`__
 
 # proxy_list structure
 proxy_list.txt должен состоять
